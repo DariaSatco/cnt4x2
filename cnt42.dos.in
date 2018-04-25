@@ -1,0 +1,7 @@
+&DOS
+ prefix='cnt42',
+ outdir='./tmp/',
+ fildos='cnt42.dos'
+ emin=-10.0,
+ emax=15.0,
+/
